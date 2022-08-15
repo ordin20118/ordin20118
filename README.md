@@ -1,8 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=omni&color=gradient&height=200&section=header&text=Constantly&fontSize=70&fontAlign=75)
 
-<a href="https://blushing-coin-a36.notion.site/05349f5baf7644ed840da1b30a3cb781" target='_blank'><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/></a>
-# 👨🏻‍💻 Backend Developer
+<a href="https://blushing-coin-a36.notion.site/05349f5baf7644ed840da1b30a3cb781" target='_blank'><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/></a> 
+# 👨🏻‍💻 Backend Developer ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 
 ```
 👾 안녕하세요, 끊임없는 성장을 목표로하는 백엔드 개발자 김광호입니다.
