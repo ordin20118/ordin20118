@@ -9,13 +9,18 @@
 👾 안녕하세요, 끊임없는 성장을 목표로하는 백엔드 개발자 김광호입니다.
 ```
 
-# Projects
+# 📑 Projects
 
 - REVUNARA <br>
   - Web: https://blushing-coin-a36.notion.site/REVUNARA_Web-0db30aa7577048aeb7c421fc0cd4cf6e
   - Ingester: https://blushing-coin-a36.notion.site/REVUNARA_Ingester-b9e543186da245b68b976f5745980524
   - Blockchain: https://blushing-coin-a36.notion.site/REVUNARA_Blockchain-a64e3e1e747442618277ee016b611b49
   - Search: https://blushing-coin-a36.notion.site/REVUNARA_Search-bfa18fe966ba4f44a204bbed9d530c97
+  
+- Tipsy <br>
+  - Service Manager: https://github.com/ordin20118/tipsy-svcmgr
+  - Admin: https://github.com/ordin20118/tipsy-raw-admin
+  - Mobile: https://github.com/ordin20118/tipsy-mobile
 
 
 # 🧩 Git Stats
