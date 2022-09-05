@@ -11,13 +11,13 @@
 
 # 📑 Projects
 
-- REVUNARA <br>
+- REVUNARA - 다양한 플랫폼들의 제품 리뷰들을 한 곳에 모아 볼 수 있는 서비스 개발<br>
   - Web: https://blushing-coin-a36.notion.site/REVUNARA_Web-0db30aa7577048aeb7c421fc0cd4cf6e
   - Ingester: https://blushing-coin-a36.notion.site/REVUNARA_Ingester-b9e543186da245b68b976f5745980524
   - Blockchain: https://blushing-coin-a36.notion.site/REVUNARA_Blockchain-a64e3e1e747442618277ee016b611b49
   - Search: https://blushing-coin-a36.notion.site/REVUNARA_Search-bfa18fe966ba4f44a204bbed9d530c97
   
-- Tipsy <br>
+- Tipsy - 주류의 정보를 간편하게 검색하고 주류 및 칵테일 정보를 공유하는 서비스 개발<br>
   - Service Manager: https://github.com/ordin20118/tipsy-svcmgr
   - Admin: https://github.com/ordin20118/tipsy-raw-admin
   - Mobile: https://github.com/ordin20118/tipsy-mobile
